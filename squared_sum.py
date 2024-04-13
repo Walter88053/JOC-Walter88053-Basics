@@ -1,5 +1,5 @@
 # Take an array of numbers as a parameter and return the sum of each number in the array squared.
-# John Kowal  -  WALTER$
+# John Kowal  -  WALTER$t
 
 def squared_sum():
     PROMPT = ("Enter numbers that get squared and then added to return the sum. "
